@@ -1,7 +1,7 @@
 {
     "version": "0.0.4",
     "discord": {
-        "clientId": "385581240906022916",
+        "clientId": "566538113443168256",
         "smallImageText": "WesterosCraft",
         "smallImageKey": "seal-circle"
     },
@@ -16,14 +16,14 @@
             "description": "Der Haupt Server von WOC.",
             "icon": "https://mc4all.de/better.png",
             "version": "0.3.50",
-            "address": "mc.hypixel.net",
+            "address": "play.hypixel.net",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "WesterosCraft Production Server",
                 "largeImageKey": "server-prod"
             },
-            "mainServer": true,
+            "mainServer": false,
             "autoconnect": true,
             "modules": [
                 {
@@ -428,7 +428,7 @@
                 "largeImageText": "WesterosCraft 1.12.2 Test Server",
                 "largeImageKey": "server-test"
             },
-            "mainServer": false,
+            "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
