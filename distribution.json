@@ -525,28 +525,13 @@
                     ]
                 },
                 {
-                {
                     "id": "net.optifine:optifine:1.12.2_HD_U_F5",
                     "name": "Optifine",
                     "type": "ForgeMod",
                     "artifact": {
                         "size": 2598821,
                         "MD5": "043ac1db6f7441ea4cf31bcb621aff0b",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/OptiFine.jar"
-                    }
-                },
-                {
-                    "id": "com.github.hexomod:worldedit-cui-fe3:1.12.2-3.0.4",
-                    "name": "WorldEditCUI",
-                    "type": "ForgeMod",
-                    "required": {
-                        "value": false,
-                        "def": false
-                    },
-                    "artifact": {
-                        "size": 861081,
-                        "MD5": "0807a7fcf26b50b23288daecc5ee6ae4",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/worldeditcuife.jar"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/OptiFine.jar"
                     }
                 },
                 {
@@ -560,21 +545,7 @@
                     "artifact": {
                         "size": 87274,
                         "MD5": "07577bfcc7acea868d56ad058b4b793e",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/MacroKey_Keybinding.jar"
-                    }
-                },
-                {
-                    "id": "com.theincgi:advancedMacros:1.12.2-7.9.0",
-                    "name": "Advanced Macros mod",
-                    "type": "ForgeMod",
-                    "required": {
-                        "value": false,
-                        "def": false
-                    },
-                    "artifact": {
-                        "size": 1858172,
-                        "MD5": "e9dee578e2ab576a65d78e7d48ddc12a",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/mods/advancedmacros.jar"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/mods/MacroKey_Keybinding.jar"
                     }
                 },
                 {
@@ -585,7 +556,7 @@
                         "size": 7062491,
                         "MD5": "e68cc9f8ffc8fad66583b9b2cc05356f",
                         "path": "shaderpacks/SEUS-Renewed.zip",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/shaderpacks/SEUS-Renewed.zip"
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/shaderpacks/SEUS-Renewed.zip"
                     }
                 },
                 {
@@ -603,12 +574,12 @@
                     "name": "Saved Client Servers",
                     "type": "File",
                     "artifact": {
-                        "size": 87,
-                        "MD5": "64dc1db90935997f07dfac422206f1de",
+                        "size": 84,
+                        "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
                         "path": "servers.dat",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/test-1.12.2/servers.dat" 
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat" 
                     }
-                }
+                }       
             ]
         }
     ]
