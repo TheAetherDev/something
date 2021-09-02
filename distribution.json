@@ -3,7 +3,6 @@
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
-//No forge version defined
       "id": "MyServer-1.16.4",
       "name": "MyServer (Minecraft 1.16.4)",
       "description": "MyServer Running Minecraft 1.16.4",
@@ -15,7 +14,6 @@
       "autoconnect": false,
       "modules": []
     },
-//Forge 35.1.4 Version
     {
       "id": "MyServer2-1.16.4",
       "name": "MyServer2 (Minecraft 1.16.4)",
