@@ -371,16 +371,6 @@
                     ]
                 },
                 {
-                    "id": "com.westeroscraft:westerosblocks:3.1.0-alpha-2-135",
-                    "name": "WesterosBlocks (3.1.0-alpha-2-135)",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 16854431,
-                         "MD5": "ed5b2349d1ce2496895a5e8839b77f74",
-                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/mods/WesterosBlocks.jar"
-                    }
-                },
-                {
                     "id": "com.westeroscraft:westeroscraftrp:2018-05-05",
                     "name": "WesterosCraft Resource Pack (2018-05-05)",
                     "type": "File",
