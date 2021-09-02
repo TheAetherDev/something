@@ -12,18 +12,18 @@
     "servers": [
         {
             "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.4",
-            "address": "mc.westeroscraft.com:25565",
+            "name": "Woc 1.12.2 Haupt Netzwerk",
+            "description": "Das Main Netzwerk von Woc.",
+            "icon": "https://cdn.discordapp.com/icons/815919809379172354/a_f8a4ab7df7003d6a92839744d0cf2c93.gif",
+            "version": "0.350",
+            "address": "mc.worldofcommunity.de:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
-                "shortId": "1.12.2 Production Server",
-                "largeImageText": "WesterosCraft 1.12.2 Production Server",
-                "largeImageKey": "server-prod"
+                "shortId": "1.12.2 World of Community",
+                "largeImageText": "large",
+                "largeImageKey": "better"
             },
-            "mainServer": false,
+            "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
