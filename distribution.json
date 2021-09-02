@@ -16,7 +16,7 @@
             "description": "Der Haupt Server von WOC.",
             "icon": "https://mc4all.de/better.png",
             "version": "0.3.50",
-            "address": "play.hypixel.net",
+            "address": "woc.mc.mc4all.de",
             "minecraftVersion": "1.11.2",
             "discord": {
                 "shortId": "Production",
