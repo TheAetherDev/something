@@ -1,9 +1,8 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "discord": {
         "clientId": "883020579320496160",
-        "smallImageText": "big",
-        "smallImageKey": "better"
+        "smallImageText": "large",
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -16,12 +15,11 @@
             "description": "Das Main Netzwerk von Woc.",
             "icon": "https://cdn.discordapp.com/icons/815919809379172354/a_f8a4ab7df7003d6a92839744d0cf2c93.gif",
             "version": "0.350",
-            "address": "woc.mc.mc4all.de:25565",
+            "address": "cytooxien.de:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 World of Community",
                 "largeImageText": "large",
-                "largeImageKey": "better"
             },
             "mainServer": true,
             "autoconnect": true,
