@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "discord": {
         "clientId": "883020579320496160",
         "smallImageText": "large",
@@ -16,7 +16,7 @@
             "description": "Das Main Netzwerk von Woc.",
             "icon": "https://cdn.discordapp.com/icons/815919809379172354/a_f8a4ab7df7003d6a92839744d0cf2c93.gif",
             "version": "0.350",
-            "address": "mc.worldofcommunity.de:25565",
+            "address": "xevento.net:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "1.12.2 World of Community",
