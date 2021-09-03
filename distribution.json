@@ -3,6 +3,7 @@
     "discord": {
         "clientId": "883020579320496160",
         "smallImageText": "large",
+         "largeImageKey": "better"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -20,6 +21,7 @@
             "discord": {
                 "shortId": "1.12.2 World of Community",
                 "largeImageText": "large",
+                 "largeImageKey": "better"
             },
             "mainServer": true,
             "autoconnect": true,
