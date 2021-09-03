@@ -1,20 +1,53 @@
 {
-  "$schema": "file:///C:/TestRoot2/schemas/ServerMetaSchema.schema.json",
-  "meta": {
-    "version": "1.0.0",
-    "name": "Woc (Minecraft 1.16.5)",
-    "description": "Woc Running Minecraft 1.16.5 (Forge vlatest-forge)",
-    "address": "localhost:25565",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  "version": "1.0.0",
+  "rss": "https://westeroscraft.com/articles/index.rss",
+  "discord": {
+    "clientId": "883020579320496160",
+    "smallImageText": "large",
+    "smallImageKey": "better"
+  },
+  "servers": [
+    {
+//No forge version defined
+      "id": "MyServer-1.16.4",
+      "name": "MyServer (Minecraft 1.16.4)",
+      "description": "MyServer Running Minecraft 1.16.4",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.16.4",
+      "discord": {
+        "shortId": "1.12.2 World of Community",
+        "largeImageText": "large",
+        "largeImageKey": "better"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
     },
-    "mainServer": false,
-    "autoconnect": false
-  },
-  "forge": {
-    "version": "latest-forge"
-  },
-  "untrackedFiles": []
+                {
+                    "id": "options.txt",
+                    "name": "Default Client Options",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1973,
+                        "path": "options.txt",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/options-1.12.2.txt" 
+                    }
+                },
+                {
+                    "id": "servers.dat",
+                    "name": "Saved Client Servers",
+                    "type": "File",
+                    "artifact": {
+                        "size": 84,
+                        "MD5": "71d99e229d7d2b8d2a6423e46832a4b8",
+                        "path": "servers.dat",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.12.2/servers.dat" 
+                    }
+          ]
+        }
+      ]
+    }
+  ]
 }
