@@ -8,33 +8,16 @@
   },
   "servers": [
     {
-      "id": "MyServer-1.16.4",
-      "name": "MyServer (Minecraft 1.16.4)",
-      "description": "MyServer Running Minecraft 1.16.4",
-      "icon": null,
-      "version": "1.0.0",
-      "address": "localhost:25565",
-      "minecraftVersion": "1.16.4",
-      "discord": {
-        "shortId": "Open World",
-        "largeImageText": "Open World",
-        "largeImageKey": "large"
-      },
-      "mainServer": true,
-      "autoconnect": false,
-      "modules": []
-    },
-    {
-      "id": "MyServer2-1.16.4",
+      "id": "Woc-1.16.4",
       "name": "MyServer2 (Minecraft 1.16.4)",
-      "description": "MyServer2 Running Minecraft 1.16.4 (Forge v35.1.4)",
+      "description": "World of Community Server ",
       "icon": null,
-      "version": "1.0.0",
+      "version": "0.0.1 Beta",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.4",
       "discord": {
         "shortId": "Openmc",
-        "largeImageText": "test",
+        "largeImageText": "Open Launcher",
         "largeImageKey": "large"
       },
       "mainServer": false,
