@@ -333,6 +333,17 @@
                 "size": 935252,
                 "MD5": "1f0c4faa50360623e49b9c2522edc602",
                 "url": "https://mc4all.de/mc/mixin-0.8.2.jar"
+                              }
+                            },
+                                {
+                    "id": "net.optifine:optifine:1.16.5_HD_U_G8",
+                    "name": "Optifine",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6046996,
+                        "MD5": "e0717ba6d1674af83036ebc479fc77b4",
+                        "url": "http://mc4all.de/mc/OptiFine_1.16.5_HD_U_G8.jar"
+                    }
               }
             }
           ]
