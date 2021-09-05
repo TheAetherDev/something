@@ -6,9 +6,6 @@
     "smallImageText": "Open Dev",
     "smallImageKey": "better"
   },
-      "java": {
-        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
-    },
   "servers": [
     {
       "id": "Woc-1.16.4",
@@ -23,8 +20,8 @@
         "largeImageText": "Open Launcher",
         "largeImageKey": "large"
       },
-      "mainServer": true,
-      "autoconnect": true,
+      "mainServer": false,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.4-35.1.4",
@@ -322,18 +319,8 @@
               }
             }
           ]
-                      },
-                                  {
-              "id": "net.optifine:optifine:1.16.4_HD_U_G7",
-              "name": "Optifine",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 5923611,
-                "MD5": "fe84aad0d9056b19692dcb5db9d9f2c9",
-                "url": "https://mc4all.de/mc/OptiFine_1.16.4_HD_U_G7.jar"
-                    }
-                }
-            ]
-        }        
-    ]
+        }
+      ]
+    }
+  ]
 }
