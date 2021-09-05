@@ -322,15 +322,6 @@
               }
             }
           ]
-                      },
-                                  {
-              "id": "net.optifine:optifine:1.16.4_HD_U_G6",
-              "name": "Optifine",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 5835669,
-                "MD5": "88e030a34aa9ec98904cca3691c853fb",
-                "url": "https://mc4all.de/mc/OptiFine_1.16.4_HD_U_G6.jar"
                     }
                 }
             ]
