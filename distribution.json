@@ -23,8 +23,8 @@
         "largeImageText": "Open Launcher",
         "largeImageKey": "large"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.4-35.1.4",
