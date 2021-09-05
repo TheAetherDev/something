@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "rss": "https://westeroscraft.com/articles/index.rss",
+  "rss": "http://45.135.149.51/plesk-site-preview/devforum.worldofcommunity.tk/https/45.135.149.51//ewr-porta/categories/news.1/index.rss",
   "discord": {
     "clientId": "883020579320496160",
     "smallImageText": "Open Dev",
@@ -12,7 +12,7 @@
   "servers": [
     {
       "id": "Woc-1.16.4",
-      "name": "World of Community (Minecraft 1.16.4)",
+      "name": "World of Community",
       "description": "World of Community Server ",
       "icon": "https://cdn.discordapp.com/icons/815919809379172354/a_f8a4ab7df7003d6a92839744d0cf2c93.gif",
       "version": "0.0.1 Beta",
