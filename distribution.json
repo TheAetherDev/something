@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "rss": "https://devforum.worldofcommunity.tk/ewr-porta/categories/news.1/index.rss",
   "discord": {
     "clientId": "883020579320496160",
@@ -15,12 +15,12 @@
       "name": "World of Community",
       "description": "World of Community Server ",
       "icon": "https://cdn.discordapp.com/icons/815919809379172354/ad7b9d0ca7060bbe6745d37f714117fc.webp",
-      "version": "Beta 1",
+      "version": "Release 1.01",
       "address": "woc.mc.mc4all.de",
       "minecraftVersion": "1.16.4",
       "discord": {
         "shortId": "WOC MC",
-        "largeImageText": "Open Launcher",
+        "largeImageText": "World of Community Launcher",
         "largeImageKey": "large"
       },
       "mainServer": true,
